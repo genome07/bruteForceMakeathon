@@ -9,10 +9,10 @@ This project is a demonstration of utilizing machine learning and artificial int
 
 
 ### Features
-1. Machine Learning Models: Various machine learning models are employed to perform tasks such as classification, regression, or clustering, depending on the project's requirements.<br>
-2. Frontend Development: The frontend is developed using cutting-edge web technologies, ensuring an intuitive and visually appealing user interface.<br>
-3. FastAPI Backend: FastAPI is used as the backend framework, offering high performance and ease of development for creating RESTful APIs.<br>
-4. API Documentation: Detailed documentation for the API endpoints is provided using Swagger UI, making it easy for developers to understand and interact with the API.<br>
+1. <b>Machine Learning Models </b> : Various machine learning models are employed to perform tasks such as classification, regression, or clustering, depending on the project's requirements.<br>
+2. <b>Frontend Development </b> : The frontend is developed using cutting-edge web technologies, ensuring an intuitive and visually appealing user interface.<br>
+3. <b>FastAPI Backend </b> : FastAPI is used as the backend framework, offering high performance and ease of development for creating RESTful APIs.<br>
+4. <b>API Documentation </b>: Detailed documentation for the API endpoints is provided using Swagger UI, making it easy for developers to understand and interact with the API.<br>
 
 
 
